@@ -28,12 +28,14 @@ function Home() {
                         <Robot />
                     </h1>
                     <p className="hero__subtitle">{siteConfig.tagline}</p>
-                    <div className={styles.social}>
+                    {/* <div className={styles.social}>
                         <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwebdriver.io&mp;width=118&mp;layout=button_count&mp;action=like&mp;size=small&mp;share=true&mp;height=46&mp;appId=585739831492556" width="118" height="46" style={{ border: 'none', overflow: 'hidden' }} scrolling="no" frameBorder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" id="fblike"></iframe>
                         <iframe src="https://ghbtns.com/github-btn.html?user=webdriverio&amp;repo=webdriverio&amp;type=watch&amp;count=true" height="20" width="118" frameBorder="0" scrolling="0" style={{ width: '118px', height: '20px' }}></iframe>
                         <a className={styles.tweetBtn} href="https://twitter.com/intent/tweet?hashtags=automation&amp;original_referer=https%3A%2F%2Fwebdriver.io%3A3000%2F&amp;ref_src=twsrc%5Etfw&amp;text=WebdriverIO%20-%20Next-gen%20browser%20and%20mobile%20automation%20test%20framework%20for%20Node.js&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fwebdriver.io&amp;via=webdriverio" data-text="WebdriverIO - Next-gen browser and mobile automation test framework for Node.js" data-url="https://webdriver.io" data-via="webdriverio" data-hashtags="automation" data-show-count="false">Tweet</a>
                         <a className={styles.tweetBtn} href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwebdriver.io%3A3000%2F&amp;ref_src=twsrc%5Etfw&amp;screen_name=webdriverio&amp;tw_p=followbutton" data-show-count="false">Follow @webdriverio</a>
-                    </div>
+                    </div> */}
+
+
                     <div className={styles.buttons}>
                         <Link
                             className={clsx(
@@ -194,7 +196,7 @@ function Home() {
                     }
                 /> */}
 
-                
+
             </main>
         </Layout>
     )
