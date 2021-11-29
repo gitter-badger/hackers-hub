@@ -53,21 +53,21 @@ function Home() {
                             )}
                         >Watch Talks</Link>
                         <Link
-                            to="https://leanpub.com/webapp-testing-guidebook"
+                            to="https://hackers-hub.com/shop/"
                             className={clsx(
                                 'button button--outline button--secondary button--lg',
                                 styles.getStarted,
                             )}
                         >Read the Book</Link>
                         <Link
-                            to="https://hackers-hub.com/shop"
+                            to="https://hackers-hub.com/courses/"
                             className={clsx(
                                 'button button--outline button--secondary button--lg',
                                 styles.getStarted,
                             )}
                         >Take The Course</Link>
                         <Link
-                            to="https://hackers-hub.com/courses"
+                            to="/community/support"
                             className={clsx(
                                 'button button--outline button--secondary button--lg',
                                 styles.getStarted,

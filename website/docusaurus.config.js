@@ -54,7 +54,7 @@ module.exports = {
         announcementBar: {
             id: 'supportus',
             content:
-              `⭐️  &nbsp; If you like WebdriverIO, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/${organizationName}/${projectName}">GitHub</a>! ⭐️`,
+              `⭐️  &nbsp; If you like Hackers Hub, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/${organizationName}/${projectName}">GitHub</a>! ⭐️`,
         },
         navbar: {
             // title: 'I/O',
@@ -149,8 +149,8 @@ module.exports = {
             }],
             logo: {
                 alt: 'OpenJS Foundation Logo',
-                src: '/img/open-jsf-logo.svg',
-                href: 'https://openjsf.org/'
+                src: '/img/footerlogo.png',
+                href: 'https://hackers-hub.com/'
             },
             copyright: `Copyright © ${new Date().getFullYear()} Hackers Hub`,
         },
