@@ -58,14 +58,14 @@ function Home() {
                             )}
                         >Read the Book</Link>
                         <Link
-                            to="https://learn.webdriver.io"
+                            to="https://hackers-hub.com/shop"
                             className={clsx(
                                 'button button--outline button--secondary button--lg',
                                 styles.getStarted,
                             )}
                         >Take The Course</Link>
                         <Link
-                            to="https://gitter.im/webdriverio/webdriverio"
+                            to="https://hackers-hub.com/courses"
                             className={clsx(
                                 'button button--outline button--secondary button--lg',
                                 styles.getStarted,
@@ -82,10 +82,11 @@ function Home() {
                         ))}
                     </Section>
                 )}
-                <Section>
+                {/* <Section>
                     <LogoCarousel logos={logos}></LogoCarousel>
-                </Section>
-                <Highlight
+                </Section> */}
+                
+                {/* <Highlight
                     img={
                         <CodeBlock className="js" children={ReactIntegration}></CodeBlock>
                     }
@@ -116,8 +117,10 @@ function Home() {
                             </div>
                         </>
                     }
-                />
-                <Highlight
+                /> */}
+
+
+                {/* <Highlight
                     img={
                         <CodeBlock className="js" children={LHIntregrationExample}></CodeBlock>
                     }
@@ -140,8 +143,10 @@ function Home() {
                             </div>
                         </>
                     }
-                />
-                <Highlight
+                /> */}
+
+
+                {/* <Highlight
                     img={
                         <iframe
                             width="560"
@@ -167,8 +172,10 @@ function Home() {
                             </p>
                         </>
                     }
-                />
-                <Highlight
+                /> */}
+
+
+                {/* <Highlight
                     img={
                         <CodeBlock className="bash" children={SetupExample}></CodeBlock>
                     }
@@ -185,7 +192,9 @@ function Home() {
                             </p>
                         </>
                     }
-                />
+                /> */}
+
+                
             </main>
         </Layout>
     )

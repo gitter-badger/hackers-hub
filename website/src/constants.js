@@ -1,29 +1,28 @@
 import React from 'react'
 
 export const features = [{
-    title: 'Extendable',
+    title: 'Clear Instructions',
     description: (
         <>
-            Adding helper functions, or more complicated sets and combinations
-            of existing commands is <strong>simple</strong> and really <strong>useful</strong>.
+            We at hackers hub provide <strong>exact</strong> and <strong>clear</strong> instructions to our students so that they can perform well and learn hacking without any haste.
         </>
     ),
 }, {
-    title: 'Compatible',
+    title: 'Wide Resources',
     description: (
         <>
-            WebdriverIO can be run on the <a href="https://w3c.github.io/webdriver/"><strong>WebDriver Protocol</strong></a> for
-            true cross-browser testing as well as <a href="https://chromedevtools.github.io/devtools-protocol/"><strong>Chrome DevTools Protocol</strong></a> for
-            Chromium based automation using <a href="https://pptr.dev/">Puppeteer</a>.
+            Hackers Hub provides you with  <a href="https://hackers-hub.com/courses/"><strong>Courses</strong></a> for
+            clear concept testing as well as <a href="https://hackers-hub.com/shop/"><strong>Books</strong></a> for
+            self instruction and revision along with <a href="https://hackers-hub.com/blog"><strong>Hacking Articles</strong></a>.
         </>
     ),
 },
 {
-    title: 'Feature Rich',
+    title: '24*7 Support',
     description: (
         <>
-            The huge variety of community plugins allows you to easily integrate
-            and extend your setup to fulfill your requirements.
+            Hacking is not a one day journey and during this journey you will face lots of problems. 
+            But you don't have to be worry about it because we are always here to help you.
         </>
     ),
 }]
