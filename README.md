@@ -154,7 +154,7 @@ Show the world you're using webdriver.io → [![tested with webdriverio](https:/
 
 ## :clap:  Supporters
 [![Stargazers repo roster for WebdriverIO](https://reporoster.com/stars/webdriverio/webdriverio)](https://github.com/webdriverio/webdriverio/stargazers)
-[![Forkers repo roster for WebdriverIO](https://reporoster.com/forks/webdriverio/webdriverio)](https://github.com/webdriverio/webdriverio/network/members)
+[![Forkers repo roster for WebdriverIO](https://reporoster.com/forks/webdriverio/webdriverio)](https://github.com/webdriverio/webdriverio/network/members) [![Join the chat at https://gitter.im/official-hackers-hub/community](https://badges.gitter.im/official-hackers-hub/community.svg)](https://gitter.im/official-hackers-hub/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <p align="center"><a href="https://github.com/webdriverio/webdriverio#nastyox"><img src="http://randojs.com/images/barsSmall.gif" alt="Animated footer bars" width="100%"/></a></p>
 <br/>
 <p align="center"><a href="https://github.com/webdriverio/webdriverio#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
